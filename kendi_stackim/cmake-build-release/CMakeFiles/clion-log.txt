@@ -1,0 +1,5 @@
+Visual Studio not found at: C:\Program Files (x86)\Microsoft Visual Studio\2019 Configure
+
+Cannot get compiler information:
+	Cannot locate vcvarsall.bat in C:\Program Files (x86)\Microsoft Visual Studio\2019
+	Please check if Visual C++ support is installed
