@@ -1,3 +1,0 @@
-C:/Users/ardad/CLionProjects/untitled18/cmake-build-release/CMakeFiles/untitled18.dir
-C:/Users/ardad/CLionProjects/untitled18/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/ardad/CLionProjects/untitled18/cmake-build-release/CMakeFiles/rebuild_cache.dir
