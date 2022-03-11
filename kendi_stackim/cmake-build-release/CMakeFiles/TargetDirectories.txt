@@ -1,3 +1,0 @@
-C:/Users/ardad/CLionProjects/kendi_stackim/cmake-build-release/CMakeFiles/kendi_stackim.dir
-C:/Users/ardad/CLionProjects/kendi_stackim/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/ardad/CLionProjects/kendi_stackim/cmake-build-release/CMakeFiles/rebuild_cache.dir
